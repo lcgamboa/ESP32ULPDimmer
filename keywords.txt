@@ -1,0 +1,15 @@
+#######################################
+# Syntax Coloring Map for ESP32ULPDimmer
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+ULPDimmerBegin	KEYWORD2
+ULPDimmerSetDuty	KEYWORD2
+ULPDimmerGetDuty	KEYWORD2
+ULPDimmerGetStepResolution	KEYWORD2
