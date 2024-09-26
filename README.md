@@ -1,6 +1,6 @@
 # ESP32ULPDimmer
 
-> Allows ESP32 boards to control one AC dimmer using ULP on second plane.
+> Allows ESP32 boards to control one AC dimmer using ULP on background.
 This library does not use interrupts and resources of the main processors.
 
 
