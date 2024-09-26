@@ -1,6 +1,7 @@
 # ESP32ULPDimmer
 
 > Allows ESP32 boards to control one AC dimmer using ULP on second plane.
+This library does not use interrupts and resources of the main processors.
 
 
 ## Usage
@@ -45,6 +46,10 @@ void loop() {
   delay(500);
 }
 ```
+
+## Circuit
+
+![dimmer schamtic](docs/dimmer.png) 
 
 
 ## License
