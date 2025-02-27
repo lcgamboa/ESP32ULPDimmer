@@ -7,6 +7,7 @@
    
 #include "esp32/ulp.h"
 #include "driver/rtc_io.h"
+#include "soc/rtc_io_reg.h"
 #include "ESP32ULPDimmer.h"
 #include <string.h>
 
